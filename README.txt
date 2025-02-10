@@ -8,3 +8,6 @@ What I got from it:
 2.	the functional differences of innerHTML in div tags vs. iframe tags
 3. 	various tidbits about css and jQuery - not-irrelevant, simply not implemented.
 4.	loading html files into a div will still show the correct title on the webBrowser if you remove the title tags from the main page
+
+Hosted on:
+tiny-belekoy-5e0e64.netlify.app
